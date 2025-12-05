@@ -1,6 +1,6 @@
 body{
     background-color: rgb(143, 183, 196);
-    color: rgb(131, 131, 148);
+    color: rgb(228, 228, 255);
     font-family: "Merriweather", serif;
     margin: 0px;
 }
@@ -21,7 +21,7 @@ p{
 } 
 
 section {
-    background-color: rgb(130, 130, 181);
+    background-color: rgb(232, 232, 251);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
